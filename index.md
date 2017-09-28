@@ -2,7 +2,7 @@
 
 test1
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).                                            
+For full documentation visit: [mkdocs.org](http://mkdocs.org).                                            
 
 ## Commands                                         
 
