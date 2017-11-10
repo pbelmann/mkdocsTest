@@ -1,4 +1,4 @@
 site_name: "test"
-docs_dir: testdoc
+docs_dir: "testdoc"
 site_dir: /var/www/html
 theme: bootstrap
